@@ -21,3 +21,20 @@ def pack_tuple (cislo1, cislo2):
     return x, y
 z = pack_tuple(4,1)
 print(z)
+
+# pouzivanie dictionaries
+person = {
+    "name": "Mims", 
+    "surname" : "Romanova",
+    "age" : 29,
+    "boyfriend": "Radko",
+    "languages": ["Python", "JavaScript"],
+    "instagram": "Mims_ka",
+    "Facebook" : "Mims_ka",
+       "address": {
+        "city" : "Kosice",
+        "street" : "Tahanovce",
+        "street_number" : 23
+    }
+}
+print(person ["address"] ["city"])
