@@ -9,7 +9,7 @@ person = {
     "Facebook" : "fb_name",
        "address": {
         "city" : "town",
-        "street" : "Tahanovce",
+        "street" : "wonderland",
         "street_number" : 23
     }
 }
