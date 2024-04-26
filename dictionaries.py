@@ -5,10 +5,10 @@ person = {
     "age" : 29,
     "boyfriend": "Radko",
     "languages": ["Python", "JavaScript"],
-    "instagram": "Mims_ka",
-    "Facebook" : "Mims_ka",
+    "instagram": "instagram_name",
+    "Facebook" : "fb_name",
        "address": {
-        "city" : "Kosice",
+        "city" : "town",
         "street" : "Tahanovce",
         "street_number" : 23
     }
